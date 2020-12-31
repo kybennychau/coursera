@@ -1,1 +1,1 @@
-# coursera.module2.solution
+# coursera.assignment.solution
